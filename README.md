@@ -20,7 +20,7 @@ This is a Flask-based web application that recommends medicines based on user in
 - scikit-learn
 - HTML / CSS / Bootstrap (for frontend)
 - Jinja2 (Flask templating)
-- OpenAI API (for smart chatbot, if used)
+
 
 ## 🗂️ Dataset
 
@@ -42,5 +42,5 @@ The application uses CSV datasets containing:
 
 
 
-   ![Screenshot 2025-04-24 125013](https://github.com/user-attachments/assets/5713bf3c-7046-45fc-bfbc-188e4ea04c8f)
+   
 
